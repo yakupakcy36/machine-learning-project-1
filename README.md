@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-10b981)
 ![Validation](https://img.shields.io/badge/Validation-5--Fold_Stratified_CV-38bdf8)
 
-An executive-grade clinical risk stratification pipeline engineered to predict **Type-2 Diabetes Mellitus onset** from metabolic, anthropometric, and endocrine biomarkers. Built around the Pima Indians Clinical Metabolic Cohort ($N = 768, d = 8$), this repository provides exploratory interactive notebooks alongside an automated cross-validated benchmark suite comparing kernel machines against gradient-boosted and bagging tree ensembles.
+ "A " + $args[0].Groups[1].Value  risk stratification pipeline engineered to predict **Type-2 Diabetes Mellitus onset** from metabolic, anthropometric, and endocrine biomarkers. Built around the Pima Indians Clinical Metabolic Cohort ($N = 768, d = 8$), this repository provides exploratory interactive notebooks alongside an automated cross-validated benchmark suite comparing kernel machines against gradient-boosted and bagging tree ensembles.
 
 ---
 
